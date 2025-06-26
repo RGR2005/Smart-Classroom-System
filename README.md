@@ -32,5 +32,5 @@ Use Cases:
 Created by:
 Gokulraj R
 Aspiring Full Stack Developer | 45+ Projects Completed
-LinkedIn: https://www.linkedin.com/in/your-profile
+LinkedIn: www.linkedin.com/in/gokulraj-r-rgr
 GitHub: https://github.com/RGR2005
