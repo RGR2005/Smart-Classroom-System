@@ -21,7 +21,7 @@ Setup Instructions:
 2. Import the database.sql file into your MySQL server using phpMyAdmin.
 3. Update your database credentials in the db.php or config/database.php file.
 4. Open the project in your browser via http://localhost/Smart-Classroom-System.
-5. Log in using admin/teacher credentials (check the database if not provided).
+5. Log in using admin/teacher credentials (check the database is provided).
 
 Use Cases:
 - Smart classroom automation
